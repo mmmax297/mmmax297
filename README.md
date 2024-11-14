@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**mmmax297/mmmax297** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un estudiante apasionado de **Inteligencia Artificial** en la [Universitat Politècnica de Catalunya (UPC)](https://www.upc.edu). Estoy dedicado a explorar las fronteras de la IA y el aprendizaje automático, y en este perfil comparto algunos de los proyectos y experimentos que voy desarrollando a lo largo de mis estudios y prácticas.
 
-Here are some ideas to get you started:
+## 🚀 Sobre Mí
+- 🎓 Actualmente cursando IA en la UPC.
+- 🔍 Interesado en el aprendizaje profundo, el procesamiento del lenguaje natural y los algoritmos de refuerzo.
+- 💡 Siempre aprendiendo y experimentando con nuevas tecnologías, modelos y técnicas en el campo de la IA.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Encuéntrame en:
+- [LinkedIn](https://www.linkedin.com/in/maximomeya/)
+
+
+¡Estoy siempre abierto a conectar con otros estudiantes, profesionales y amantes de la IA! 😊
+
+---
